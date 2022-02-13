@@ -1,8 +1,6 @@
 
 # SyncWifiManager Libarary
 
-<img src="https://github.com/jnuwan/SyncVEML6070/blob/main/extras/VEML6070.PNG"/></a>
-
 ## DEVELOPMENT Version 1.0
 
 SyncWifiManager is the library to resolve the WiFi connectivity with user WiFI router/access point.
